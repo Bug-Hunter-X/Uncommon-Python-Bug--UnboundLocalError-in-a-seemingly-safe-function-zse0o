@@ -1,0 +1,1 @@
+This repository contains a Python code example demonstrating an uncommon and subtle error: an UnboundLocalError.  The error occurs in a seemingly safe function due to improper variable handling and a specific execution flow. The solution demonstrates how to fix this error and avoid similar issues.
